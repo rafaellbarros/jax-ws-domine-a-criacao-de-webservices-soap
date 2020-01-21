@@ -13,8 +13,8 @@ public class TesteServicoWeb {
 		filtros.getFiltro().add(filtro);
 		
 	
-		ListaItens itens = cliente.todosOsItens(filtros);
+		// ListaItens itens = cliente.todosOsItens(filtros);
 		
-		System.out.println(itens);
+		// System.out.println(itens);
 	}
 }
