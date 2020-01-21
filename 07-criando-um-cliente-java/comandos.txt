@@ -1,0 +1,2 @@
+# Gerando um soap-cliente apartir de um serviço soap
+wsimport -s src -p br.com.caelum.estoque.cliente http://localhost:8080/estoquews-web/EstoqueWS?wsdl
