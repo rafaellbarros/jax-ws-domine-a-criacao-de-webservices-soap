@@ -1,0 +1,2 @@
+# Gerando um soap web apartir de um arquivo wsdl
+wsconsume.sh -k -n -o <path src web origem> <path file wsdl> 
